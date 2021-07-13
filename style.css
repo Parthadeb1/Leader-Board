@@ -80,6 +80,7 @@ main{
     color: #562EFF;
     font-size: 25px;
     margin-top:5px;
+    margin-bottom: 30px;
 
 }
 .players{
@@ -197,7 +198,9 @@ hr{
 /* footer section */
 
 .footer{
-    margin-top:20px;
+    margin:20px;
+    padding:30px;
+    border-radius: 10px;
     background-color: #FFE4E8;
 }
 .footer p{
